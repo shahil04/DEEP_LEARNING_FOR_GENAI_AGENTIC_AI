@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Online MCQ Exam — Proctored</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #video { border: 1px solid #ccc; background: #000; }
+    #status { font-weight: bold; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h2>Online MCQ Exam (Proctored)</h2>
+  <div>
+    <form id="examForm" method="POST" action="/submit">
+      <p><b>Q1.</b> What is 2 + 2?</p>
+      <label><input type="radio" name="q1" value="3"> 3</label><br>
+      <label><input type="radio" name="q1" value="4"> 4</label><br>
+      <label><input type="radio" name="q1" value="5"> 5</label><br><br>
+
+      <p><b>Q2.</b> Capital of India?</p>
+      <label><input type="radio" name="q2" value="Delhi"> Delhi</label><br>
+      <label><input type="radio" name="q2" value="Mumbai"> Mumbai</label><br>
+      <label><input type="radio" name="q2" value="Chennai"> Chennai</label><br><br>
+
+      <input type="submit" value="Submit Exam">
+    </form>
+  </div>
+
+  <h3>Webcam Monitor</h3>
+  <video id="video" width="420" height="320" autoplay muted></video>
+  <p id="status">Status: —</p>
+  <p id="faults">Faults: 0</p>
+
+  <script src="/static/js/camera.js"></script>
+</body>
+</html>
