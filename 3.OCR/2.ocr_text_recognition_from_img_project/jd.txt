@@ -1,0 +1,104 @@
+Location
+Delhi, Delhi
+&nbsp;
+Benefits
+Pulled from the full job description
+Paid sick time
+Provident Fund
+&nbsp;
+Full job description
+Python Data Examiner (DE)
+
+Organisation
+
+With Ministry of Statistics & Programme Implementation, Government of India.
+
+Location : Delhi
+
+Job Type & Tenure
+
+Contractual role for 3 years
+Full-time, in‑person role
+5 Days a week
+Salary & Benefits
+
+Monthly salary: ₹30,000
+Annual increment: Review & increase every year based on performance
+Other benefits as per Government of India contract policy (leave, allowances, etc.)
+Who Should Apply
+
+Fresh graduates with 0‑1 years of experience
+Strong Python and R Language Experience is a must
+Strong interest in working with national scale data / large‑scale surveys
+Desire to begin a meaningful career under Central Government service, boosting resume credibility
+Why This Role is a Great Opportunity
+
+A unique chance to work in a reputed government agency involved in key national surveys and data collection initiatives
+Hands‑on experience in data quality, validation, cleaning, analysis using modern tools (Python, R)
+Builds strong foundation for career growth in data analytics, public policy, social research, statistics
+Government contract adds credibility to your profile; exposure to central govt processes, large datasets, survey methodologies
+Key Responsibilities
+
+· Review and scrutinize datasets collected through survey schedules/field offices.
+
+· Ensure that data entered matches instructions, survey concepts, and scheme guidelines.
+
+· Validate, clean, and correct data; flag inconsistent or missing entries.
+
+· Use tools (Python, R) to run basic scripts for data validation, checks, exploratory data analysis.
+
+· Prepare reports on data quality issues and suggest improvements for data collection & entry processes.
+
+· Coordinate with field offices for receipt tracking, follow‑ups, and resolution of data issues.
+
+· Monitor daily/monthly status of incoming data, generate status dashboards / summaries.
+
+· Assist in documenting procedures, guidelines, and maintaining audit trails of corrections and decisions.
+
+Skills & Qualifications
+
+Essential:
+
+· Bachelor’s degree in Statistics / Mathematics / Economics / Data Science / Computer Science or equivalent
+
+· Proficiency in Python and R (basic scripts, data frames, data cleaning)
+
+· Good understanding of statistical/data quality concepts (missing data, consistency, outliers)
+
+· Strong attention to detail and analytical mindset
+
+· Good communication skills – able to document issues, interact with teams at field offices
+
+· Ability to work under deadlines and manage multiple tasks
+
+Interview & Selection Process
+
+· Initial shortlisting based on resume & qualifications
+
+· Written test (data validation / logical / handling sample data)
+
+· Technical interview focused on data tools (Python/R), statistics, attention to detail
+
+· Final interview & document verification at Ministry, Delhi
+
+Application Deadline & How to Apply
+
+Submit your updated CV / resume by 15th of Sept.
+Indicate clearly your academic background, any project / coursework using Python / R, and any exposure to handling datasets / surveys
+Shortlisted candidates will be called to Ministry office, Delhi for interview
+Job Type: Contractual / Temporary
+Contract length: 36 months
+
+Pay: ₹29,000.00 - ₹30,000.00 per month
+
+Benefits:
+
+Paid sick time
+Provident Fund
+Application Question(s):
+
+Must have one year of Computer Diploma Degree / or any computer Certifications
+Education:
+
+Bachelor's (Required)
+Work Location: In person
