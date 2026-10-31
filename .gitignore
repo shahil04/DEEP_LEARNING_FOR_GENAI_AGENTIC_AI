@@ -1,0 +1,127 @@
+
+# Dependencies
+node_modules/
+vendor/
+bower_components/
+
+# Python virtual environments
+.venv/
+**/.venv/
+
+# Environment variables
+.env
+**/.env
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials.json
+
+# Build outputs
+dist/
+build/
+out/
+target/
+.next/
+.nuxt/
+.svelte-kit/
+coverage/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+htmlcov/
+.ipynb_checkpoints/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+
+# Operating systems
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Testing
+.nyc_output/
+jest/
+playwright-report/
+test-results/
+
+# Package managers
+.npm/
+.pnpm-store/
+.yarn/*
+!.yarn/patches/
+!.yarn/plugins/
+!.yarn/releases/
+!.yarn/versions/
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Docker
+.docker/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Miscellaneous
+*.pid
+*.seed
+*.pid.lock
+.DS_Store?
+*.stackdump

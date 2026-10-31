@@ -1,0 +1,11 @@
+streamlit>=1.35
+numpy
+pillow
+matplotlib
+opencv-python-headless
+torch
+torchvision
+tensorflow
+ultralytics
+transformers
+requests
